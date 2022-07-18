@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Arda.
-I am Arda. I try to upload my projects to GitHub as much as I can. I am also in the Microsoft Learn Student Ambassadors program. You can reach my social media accounts from the links in the description section.
+I'm Arda. I try to upload my projects to GitHub as much as I can. I'm also in the Microsoft Learn Student Ambassadors program. You can reach my social media accounts from the links in the description section.
 
 Skills: Python C# HTML XML JavaScript
 
